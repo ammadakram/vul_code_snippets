@@ -1,0 +1,6 @@
+projectKey=vulnerable_code_snippets
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=vulnerable_code_snippets
+ceTaskId=3c69e015-d83f-4c17-a50b-43e4f4a72993
+ceTaskUrl=http://localhost:9000/api/ce/task?id=3c69e015-d83f-4c17-a50b-43e4f4a72993

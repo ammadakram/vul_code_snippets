@@ -1,9 +1,9 @@
-```
-	function persistLogin($username, $password){
-		$data = array("username" => $username, "password"=> $password);
-		setcookie ("userdata", $data);
-	}
-```
+
+function persistLogin($username, $password){
+	$data = array("username" => $username, "password"=> $password);
+	setcookie ("userdata", $data);
+}
+
 
 
 //Result: 
